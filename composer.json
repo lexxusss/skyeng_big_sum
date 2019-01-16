@@ -1,0 +1,8 @@
+{
+    "name": "skyeng/big_sum",
+    "description": "Get sum of big numbers",
+    "type": "project",
+    "require": {
+        "php": ">=7.1"
+    }
+}
